@@ -1,5 +1,5 @@
 tg_bot/config.py
-*.pyc
+.pyc
 .idea/
 .project
 .pydevproject
