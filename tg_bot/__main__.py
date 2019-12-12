@@ -22,13 +22,19 @@ PM_START_TEXT = """
 Hi {}, my name is {}! If you have any questions on how to use me, read /help - and then head to @MarieSupport.
 
 I'm a group manager bot built in python3, using the python-telegram-bot library, and am fully opensource; \
-you can find what makes me tick [here](github.com/PaulSonOfLars/tgbot)!
+you can find what makes me tick [here](github.com/zainulhibath/tgbot)!
 
-Feel free to submit pull requests on github, or to contact my support group, @MarieSupport, with any bugs, questions \
+My owner is @ZainsTech
+
+Feel free to submit pull requests on github, or to contact my support group, @Movies_Tech_Bot_Support, with any bugs, questions \
 or feature requests you might have :)
-I also have a news channel, @MarieNews for announcements on new features, downtime, etc.
+I also have a news channel, @Movies_Tech_Bot_News for announcements on new features, downtime, etc.
 
 You can find the list of available commands with /help.
+
+Please Join official movies channel of our admin @Movies_Tech
+
+if you have a channel with more than 500 subscribers you can earn with that channel by registering it to @Tech_ads_bot
 
 If you're enjoying using me, and/or would like to help me survive in the wild, hit /donate to help fund/upgrade my VPS!
 """
